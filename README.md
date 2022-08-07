@@ -1,1 +1,1 @@
-# Fórum da disciplina de Linguagem de Programação - Python
+# Repositório da disciplina de Linguagem de Programação - Python
